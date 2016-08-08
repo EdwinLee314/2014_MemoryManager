@@ -1,0 +1,8 @@
+2 1 read 10
+4 1 write 10 BBBB
+6 1 read 12
+7 0 write 12 CCCC
+11 1 read 11
+12 1 read 11
+15 0 read 10
+16 1 read 10

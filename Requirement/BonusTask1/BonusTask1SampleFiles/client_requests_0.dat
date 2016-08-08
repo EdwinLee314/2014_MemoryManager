@@ -1,0 +1,8 @@
+1 0 write 11 AAAA
+3 1 write 11 AAAA
+5 0 write 10 BBBB
+8 1 read 12
+9 1 read 12
+10 0 read 11
+13 1 read 11
+14 1 read 11
